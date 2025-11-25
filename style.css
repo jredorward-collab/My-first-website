@@ -1,0 +1,10 @@
+body {
+    text-align:center;
+    font-family: "Arial";
+        background-color:rgb(157, 253, 181);
+        color:red;
+    }
+    
+    button {
+        background-color:rgb(255, 208, 0);
+    }
